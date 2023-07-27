@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\bin\Debug\net6.0\LeituraDeNota.exe
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\bin\Debug\net6.0\LeituraDeNota.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\bin\Debug\net6.0\LeituraDeNota.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\bin\Debug\net6.0\LeituraDeNota.dll
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\bin\Debug\net6.0\LeituraDeNota.pdb
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\obj\Debug\net6.0\LeituraDeNota.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\obj\Debug\net6.0\LeituraDeNota.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\obj\Debug\net6.0\LeituraDeNota.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\obj\Debug\net6.0\LeituraDeNota.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\obj\Debug\net6.0\LeituraDeNota.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\obj\Debug\net6.0\LeituraDeNota.dll
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\obj\Debug\net6.0\refint\LeituraDeNota.dll
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\obj\Debug\net6.0\LeituraDeNota.pdb
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\obj\Debug\net6.0\LeituraDeNota.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-basico\LeituraDeNota\obj\Debug\net6.0\ref\LeituraDeNota.dll
