@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\bin\Debug\net6.0\ElemetosEstaticos.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\bin\Debug\net6.0\ElemetosEstaticos.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\bin\Debug\net6.0\ElemetosEstaticos.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\bin\Debug\net6.0\ElemetosEstaticos.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\bin\Debug\net6.0\ElemetosEstaticos.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\obj\Debug\net6.0\ElemetosEstaticos.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\obj\Debug\net6.0\ElemetosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\obj\Debug\net6.0\ElemetosEstaticos.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\obj\Debug\net6.0\ElemetosEstaticos.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\obj\Debug\net6.0\ElemetosEstaticos.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\obj\Debug\net6.0\ElemetosEstaticos.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\obj\Debug\net6.0\refint\ElemetosEstaticos.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\obj\Debug\net6.0\ElemetosEstaticos.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\obj\Debug\net6.0\ElemetosEstaticos.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElemetosEstaticos\obj\Debug\net6.0\ref\ElemetosEstaticos.dll

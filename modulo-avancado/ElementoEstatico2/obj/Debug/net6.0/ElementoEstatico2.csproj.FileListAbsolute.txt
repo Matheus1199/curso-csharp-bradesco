@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\bin\Debug\net6.0\ElementoEstatico2.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\bin\Debug\net6.0\ElementoEstatico2.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\bin\Debug\net6.0\ElementoEstatico2.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\bin\Debug\net6.0\ElementoEstatico2.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\bin\Debug\net6.0\ElementoEstatico2.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\obj\Debug\net6.0\ElementoEstatico2.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\obj\Debug\net6.0\ElementoEstatico2.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\obj\Debug\net6.0\ElementoEstatico2.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\obj\Debug\net6.0\ElementoEstatico2.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\obj\Debug\net6.0\ElementoEstatico2.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\obj\Debug\net6.0\ElementoEstatico2.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\obj\Debug\net6.0\refint\ElementoEstatico2.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\obj\Debug\net6.0\ElementoEstatico2.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\obj\Debug\net6.0\ElementoEstatico2.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ElementoEstatico2\obj\Debug\net6.0\ref\ElementoEstatico2.dll

@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\obj\Debug\net6.0\ExemploClasse-Metodo2.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\obj\Debug\net6.0\ExemploClasse-Metodo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\obj\Debug\net6.0\ExemploClasse-Metodo2.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\obj\Debug\net6.0\ExemploClasse-Metodo2.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\obj\Debug\net6.0\ExemploClasse-Metodo2.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\bin\Debug\net6.0\ExemploClasse-Metodo2.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\bin\Debug\net6.0\ExemploClasse-Metodo2.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\bin\Debug\net6.0\ExemploClasse-Metodo2.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\bin\Debug\net6.0\ExemploClasse-Metodo2.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\bin\Debug\net6.0\ExemploClasse-Metodo2.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\obj\Debug\net6.0\ExemploClasse-Metodo2.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\obj\Debug\net6.0\refint\ExemploClasse-Metodo2.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\obj\Debug\net6.0\ExemploClasse-Metodo2.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\obj\Debug\net6.0\ExemploClasse-Metodo2.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ExemploClasse-Metodo2\obj\Debug\net6.0\ref\ExemploClasse-Metodo2.dll

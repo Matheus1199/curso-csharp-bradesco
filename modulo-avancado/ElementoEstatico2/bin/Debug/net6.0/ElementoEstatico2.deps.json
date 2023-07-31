@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ElementoEstatico2/1.0.0": {
+        "runtime": {
+          "ElementoEstatico2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElementoEstatico2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

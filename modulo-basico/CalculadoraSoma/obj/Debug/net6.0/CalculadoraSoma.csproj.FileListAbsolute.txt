@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\bin\Debug\net6.0\CalculadoraSoma.exe
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\bin\Debug\net6.0\CalculadoraSoma.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\bin\Debug\net6.0\CalculadoraSoma.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\bin\Debug\net6.0\CalculadoraSoma.dll
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\bin\Debug\net6.0\CalculadoraSoma.pdb
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\obj\Debug\net6.0\CalculadoraSoma.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\obj\Debug\net6.0\CalculadoraSoma.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\obj\Debug\net6.0\CalculadoraSoma.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\obj\Debug\net6.0\CalculadoraSoma.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\obj\Debug\net6.0\CalculadoraSoma.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\obj\Debug\net6.0\CalculadoraSoma.dll
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\obj\Debug\net6.0\refint\CalculadoraSoma.dll
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\obj\Debug\net6.0\CalculadoraSoma.pdb
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\obj\Debug\net6.0\CalculadoraSoma.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-basico\CalculadoraSoma\obj\Debug\net6.0\ref\CalculadoraSoma.dll
