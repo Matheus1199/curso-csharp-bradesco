@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\bin\Debug\net6.0\ParemetrosRef.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\bin\Debug\net6.0\ParemetrosRef.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\bin\Debug\net6.0\ParemetrosRef.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\bin\Debug\net6.0\ParemetrosRef.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\bin\Debug\net6.0\ParemetrosRef.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\obj\Debug\net6.0\ParemetrosRef.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\obj\Debug\net6.0\ParemetrosRef.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\obj\Debug\net6.0\ParemetrosRef.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\obj\Debug\net6.0\ParemetrosRef.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\obj\Debug\net6.0\ParemetrosRef.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\obj\Debug\net6.0\ParemetrosRef.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\obj\Debug\net6.0\refint\ParemetrosRef.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\obj\Debug\net6.0\ParemetrosRef.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\obj\Debug\net6.0\ParemetrosRef.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParemetrosRef\obj\Debug\net6.0\ref\ParemetrosRef.dll

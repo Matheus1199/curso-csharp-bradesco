@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\bin\Debug\net6.0\Struct-Classe.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\bin\Debug\net6.0\Struct-Classe.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\bin\Debug\net6.0\Struct-Classe.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\bin\Debug\net6.0\Struct-Classe.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\bin\Debug\net6.0\Struct-Classe.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\obj\Debug\net6.0\Struct-Classe.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\obj\Debug\net6.0\Struct-Classe.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\obj\Debug\net6.0\Struct-Classe.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\obj\Debug\net6.0\Struct-Classe.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\obj\Debug\net6.0\Struct-Classe.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\obj\Debug\net6.0\Struct-Classe.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\obj\Debug\net6.0\refint\Struct-Classe.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\obj\Debug\net6.0\Struct-Classe.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\obj\Debug\net6.0\Struct-Classe.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Struct-Classe\obj\Debug\net6.0\ref\Struct-Classe.dll

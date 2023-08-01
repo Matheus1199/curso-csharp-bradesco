@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\bin\Debug\net6.0\Enums.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\bin\Debug\net6.0\Enums.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\bin\Debug\net6.0\Enums.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\bin\Debug\net6.0\Enums.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\obj\Debug\net6.0\Enums.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\obj\Debug\net6.0\Enums.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\obj\Debug\net6.0\refint\Enums.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\obj\Debug\net6.0\Enums.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Enums\obj\Debug\net6.0\ref\Enums.dll

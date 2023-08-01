@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\obj\Debug\net6.0\ParametroPadrao.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\obj\Debug\net6.0\ParametroPadrao.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\obj\Debug\net6.0\ParametroPadrao.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\obj\Debug\net6.0\ParametroPadrao.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\obj\Debug\net6.0\ParametroPadrao.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\bin\Debug\net6.0\ParametroPadrao.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\bin\Debug\net6.0\ParametroPadrao.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\bin\Debug\net6.0\ParametroPadrao.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\bin\Debug\net6.0\ParametroPadrao.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\bin\Debug\net6.0\ParametroPadrao.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\obj\Debug\net6.0\ParametroPadrao.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\obj\Debug\net6.0\refint\ParametroPadrao.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\obj\Debug\net6.0\ParametroPadrao.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\obj\Debug\net6.0\ParametroPadrao.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametroPadrao\obj\Debug\net6.0\ref\ParametroPadrao.dll

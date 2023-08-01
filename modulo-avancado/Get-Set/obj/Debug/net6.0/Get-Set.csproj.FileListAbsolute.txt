@@ -1,0 +1,5 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Get-Set\obj\Debug\net6.0\Get-Set.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Get-Set\obj\Debug\net6.0\Get-Set.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Get-Set\obj\Debug\net6.0\Get-Set.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Get-Set\obj\Debug\net6.0\Get-Set.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Get-Set\obj\Debug\net6.0\Get-Set.csproj.CoreCompileInputs.cache

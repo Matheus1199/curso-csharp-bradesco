@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\bin\Debug\net6.0\ParametrosVariaveis.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\bin\Debug\net6.0\ParametrosVariaveis.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\bin\Debug\net6.0\ParametrosVariaveis.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\bin\Debug\net6.0\ParametrosVariaveis.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\bin\Debug\net6.0\ParametrosVariaveis.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\obj\Debug\net6.0\refint\ParametrosVariaveis.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\obj\Debug\net6.0\ParametrosVariaveis.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ParametrosVariaveis\obj\Debug\net6.0\ref\ParametrosVariaveis.dll
