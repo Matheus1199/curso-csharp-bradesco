@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\bin\Debug\net6.0\HerançaParte1.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\bin\Debug\net6.0\HerançaParte1.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\bin\Debug\net6.0\HerançaParte1.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\bin\Debug\net6.0\HerançaParte1.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\bin\Debug\net6.0\HerançaParte1.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\obj\Debug\net6.0\HerançaParte1.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\obj\Debug\net6.0\HerançaParte1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\obj\Debug\net6.0\HerançaParte1.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\obj\Debug\net6.0\HerançaParte1.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\obj\Debug\net6.0\HerançaParte1.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\obj\Debug\net6.0\HerançaParte1.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\obj\Debug\net6.0\refint\HerançaParte1.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\obj\Debug\net6.0\HerançaParte1.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\obj\Debug\net6.0\HerançaParte1.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\HerançaParte1\obj\Debug\net6.0\ref\HerançaParte1.dll

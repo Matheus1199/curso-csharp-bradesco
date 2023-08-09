@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\bin\Debug\net6.0\Delegate.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\bin\Debug\net6.0\Delegate.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\bin\Debug\net6.0\Delegate.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\bin\Debug\net6.0\Delegate.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\obj\Debug\net6.0\Delegate.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\obj\Debug\net6.0\Delegate.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\obj\Debug\net6.0\refint\Delegate.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\obj\Debug\net6.0\Delegate.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\Delegate\obj\Debug\net6.0\ref\Delegate.dll

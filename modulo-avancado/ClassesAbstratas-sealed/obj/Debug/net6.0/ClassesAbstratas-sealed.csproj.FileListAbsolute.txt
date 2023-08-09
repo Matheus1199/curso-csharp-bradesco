@@ -1,0 +1,5 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ClassesAbstratas-sealed\obj\Debug\net6.0\ClassesAbstratas-sealed.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ClassesAbstratas-sealed\obj\Debug\net6.0\ClassesAbstratas-sealed.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ClassesAbstratas-sealed\obj\Debug\net6.0\ClassesAbstratas-sealed.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ClassesAbstratas-sealed\obj\Debug\net6.0\ClassesAbstratas-sealed.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\ClassesAbstratas-sealed\obj\Debug\net6.0\ClassesAbstratas-sealed.csproj.CoreCompileInputs.cache

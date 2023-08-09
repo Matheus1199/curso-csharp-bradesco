@@ -1,0 +1,15 @@
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\bin\Debug\net6.0\PolimorfismoEncapsulamento.exe
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\bin\Debug\net6.0\PolimorfismoEncapsulamento.deps.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\bin\Debug\net6.0\PolimorfismoEncapsulamento.runtimeconfig.json
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\bin\Debug\net6.0\PolimorfismoEncapsulamento.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\bin\Debug\net6.0\PolimorfismoEncapsulamento.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\obj\Debug\net6.0\PolimorfismoEncapsulamento.csproj.AssemblyReference.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\obj\Debug\net6.0\PolimorfismoEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\obj\Debug\net6.0\PolimorfismoEncapsulamento.AssemblyInfoInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\obj\Debug\net6.0\PolimorfismoEncapsulamento.AssemblyInfo.cs
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\obj\Debug\net6.0\PolimorfismoEncapsulamento.csproj.CoreCompileInputs.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\obj\Debug\net6.0\PolimorfismoEncapsulamento.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\obj\Debug\net6.0\refint\PolimorfismoEncapsulamento.dll
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\obj\Debug\net6.0\PolimorfismoEncapsulamento.pdb
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\obj\Debug\net6.0\PolimorfismoEncapsulamento.genruntimeconfig.cache
+D:\cursos\curso-csharp-bradesco\modulo-avancado\PolimorfismoEncapsulamento\obj\Debug\net6.0\ref\PolimorfismoEncapsulamento.dll
